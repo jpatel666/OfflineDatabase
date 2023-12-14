@@ -16,7 +16,6 @@ import com.example.offlinedatabase.Database.SqliteHelper;
 import com.example.offlinedatabase.InsertContactActivity;
 import com.example.offlinedatabase.MainActivity;
 import com.example.offlinedatabase.R;
-import com.example.offlinedatabase.UpdateContactActivity;
 
 import java.util.ArrayList;
 
