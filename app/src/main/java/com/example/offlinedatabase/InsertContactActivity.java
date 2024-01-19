@@ -13,7 +13,7 @@ import android.widget.Toast;
 
 import com.example.offlinedatabase.Database.SqliteHelper;
 
-public class InsertContactActivity extends AppCompatActivity {
+public class    InsertContactActivity extends AppCompatActivity {
 
     EditText etName,etContact;
     Button btnSave;
